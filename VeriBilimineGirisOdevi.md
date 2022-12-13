@@ -8,8 +8,9 @@ aşkına karşılık verir.Bir süre sonra, Zeynep ve Mustafa birbirlerine aşı
 Ancak mutlu bir yaşam sürdürmeleri için, savaşın ortasında bulunan Adana'dan kaçmaları gerekir. 
 Zeynep ve Mustafa, maceraperest bir şekilde kaçarlar ve yeni bir hayat kurmaya başlarlar.
 *
-Ancak hikaye "Network Error" vererek yarım kalmıştı. 
-Bu hikaye OpenAI'ın geliştirdiği ChatGPT tarafından aşağıdaki girdi verildiğinde yazıldı. 
+
+### Ancak hikaye "Network Error" vererek yarım kalmıştı. 
+### Bu hikaye OpenAI'ın geliştirdiği ChatGPT tarafından aşağıdaki girdi verildiğinde ChatGPT tarafindan o anda kurgulanarak yazıldı. 
 
 ```
 Nazım Hikmet romanı tarzında içinde aşk, savaş ve macera olan, Adana'da geçen kısa bir hikaye yaz. 
